@@ -1,0 +1,5 @@
+spring:
+  message: Production
+
+server:
+  port: 8087

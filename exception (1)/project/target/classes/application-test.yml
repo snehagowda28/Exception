@@ -1,0 +1,5 @@
+spring:
+  message: Testing
+
+server:
+  port: 8089
